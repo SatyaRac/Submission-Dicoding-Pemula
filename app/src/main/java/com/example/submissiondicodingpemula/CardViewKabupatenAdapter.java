@@ -19,6 +19,7 @@ import java.util.ArrayList;
 public class CardViewKabupatenAdapter extends RecyclerView.Adapter<CardViewKabupatenAdapter.CardViewViewHolder> {
     private Context context;
     private ArrayList<Kabupaten> listKabupaten;
+
     private ArrayList<Kabupaten> getListKabupaten(){
         return listKabupaten;
     }

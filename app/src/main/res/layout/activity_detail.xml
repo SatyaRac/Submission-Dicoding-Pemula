@@ -51,6 +51,7 @@
         </RelativeLayout>
 
         <TextView
+            android:id="@+id/tv_keterangan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="21dp"
@@ -72,7 +73,7 @@
                     android:id="@+id/tv_ultah"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Tanggal berdiri"
+                    android:text=""
                     android:textStyle="bold"
                     android:textSize="19dp"
                     android:layout_marginBottom="8dp"/>
@@ -94,14 +95,14 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Tanggal berdiri"
+                    android:text="@string/tanggal"
                     android:textStyle="bold"
                     android:textSize="19dp"
                     android:layout_marginBottom="8dp"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Penduduk"
+                    android:text="@string/keterangan"
                     android:textStyle="bold"
                     android:textSize="19dp"
                     android:layout_marginBottom="8dp"

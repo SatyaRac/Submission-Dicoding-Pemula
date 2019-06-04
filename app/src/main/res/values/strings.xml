@@ -2,4 +2,10 @@
     <string name="app_name">SubmissionDicodingPemula</string>
     <string name="favorite">Favorite</string>
     <string name="share">share</string>
+    <string name="tanggal">Tanggal Berdiri</string>
+    <string name="keterangan">Keterangan</string>
+    
+    <string name="cardview">CardView</string>
+    <string name="list">List</string>
+
 </resources>
